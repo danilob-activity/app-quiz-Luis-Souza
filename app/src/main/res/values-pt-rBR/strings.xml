@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quizzler</string>
+    <string name="true_button">Verdadeiro</string>
+    <string name="false_button">Falso</string>
+    <string name="initial_score">Ponto</string>
+    <string name="incorrect_toast">Errado!</string>
+    <string name="correct_toast">Você Entendeu!</string>
+    <string name="question_1">Dia dos Namorados é proibido na Arábia Saudita.</string>
+    <string name="question_2">O sangue de uma lesma é verde.</string>
+    <string name="question_3">"Aproximadamente um quarto dos ossos humanos está nos pés.  "</string>
+    <string name="question_4">"A área total da superfície de dois pulmões humanos é de aproximadamente 70 metros quadrados.  "</string>
+    <string name="question_5">Em West Virginia, EUA, se você acidentalmente acertar um animal com seu carro, você está livre para levá-lo para casa para comer.</string>
+    <string name="question_6">Em Londres, no Reino Unido, se acontecer de você morrer na Casa do Parlamento, você está tecnicamente qualificado para um funeral de estado, porque o prédio é considerado um local muito sagrado.</string>
+    <string name="question_7">"É ilegal fazer xixi no oceano em Portugal.  "</string>
+    <string name="question_8">"Você pode levar uma vaca escada abaixo, mas não subir escadas.  "</string>
+    <string name="question_9">Google foi originalmente chamado de Backrub.</string>
+    <string name="question_10">O nome de solteira da mãe de Buzz Aldrin era Moon.</string>
+    <string name="question_11">O som mais alto produzido por qualquer animal é de 188 decibéis. Esse animal é o elefante africano.</string>
+    <string name="question_12">Nenhum pedaço de papel quadrado seco pode ser dobrado ao meio mais de 7 vezes.</string>
+    <string name="question_13">"O chocolate afeta o coração e o sistema nervoso de um cão; algumas onças são suficientes para matar um cachorro pequeno.  "</string>
+</resources>
